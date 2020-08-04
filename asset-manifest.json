@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "jevin925.github.io/static/css/main.ac0528b8.chunk.css",
-    "main.js": "jevin925.github.io/static/js/main.d2e3ec76.chunk.js",
-    "main.js.map": "jevin925.github.io/static/js/main.d2e3ec76.chunk.js.map",
+    "main.css": "jevin925.github.io/static/css/main.ca9580d2.chunk.css",
+    "main.js": "jevin925.github.io/static/js/main.14166142.chunk.js",
+    "main.js.map": "jevin925.github.io/static/js/main.14166142.chunk.js.map",
     "runtime-main.js": "jevin925.github.io/static/js/runtime-main.a4457097.js",
     "runtime-main.js.map": "jevin925.github.io/static/js/runtime-main.a4457097.js.map",
     "static/js/2.bde7e412.chunk.js": "jevin925.github.io/static/js/2.bde7e412.chunk.js",
@@ -14,11 +14,11 @@
     "static/js/4.dc6e5edc.chunk.js": "jevin925.github.io/static/js/4.dc6e5edc.chunk.js",
     "static/js/4.dc6e5edc.chunk.js.map": "jevin925.github.io/static/js/4.dc6e5edc.chunk.js.map",
     "index.html": "jevin925.github.io/index.html",
-    "precache-manifest.5a4ddfcc438e72e17d7b0c1da163a5e3.js": "jevin925.github.io/precache-manifest.5a4ddfcc438e72e17d7b0c1da163a5e3.js",
+    "precache-manifest.95f69d8ac951e9706dd93165aa3fb93f.js": "jevin925.github.io/precache-manifest.95f69d8ac951e9706dd93165aa3fb93f.js",
     "service-worker.js": "jevin925.github.io/service-worker.js",
     "static/css/3.cffc9e54.chunk.css.map": "jevin925.github.io/static/css/3.cffc9e54.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "jevin925.github.io/static/css/4.54df59d4.chunk.css.map",
-    "static/css/main.ac0528b8.chunk.css.map": "jevin925.github.io/static/css/main.ac0528b8.chunk.css.map",
+    "static/css/main.ca9580d2.chunk.css.map": "jevin925.github.io/static/css/main.ca9580d2.chunk.css.map",
     "static/media/index.css": "jevin925.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/contactMail.webp": "jevin925.github.io/static/media/contactMail.68e84138.webp",
     "static/media/logo.svg": "jevin925.github.io/static/media/logo.25bf045c.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.a4457097.js",
     "static/js/2.bde7e412.chunk.js",
-    "static/css/main.ac0528b8.chunk.css",
-    "static/js/main.d2e3ec76.chunk.js"
+    "static/css/main.ca9580d2.chunk.css",
+    "static/js/main.14166142.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "028daad0a1ef5663190468d4187628a7",
+    "revision": "109b01e3d63b82cc1f43489fffd55e03",
     "url": "jevin925.github.io/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "jevin925.github.io/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "2a46eee1f24c2e51fedd",
-    "url": "jevin925.github.io/static/css/main.ac0528b8.chunk.css"
+    "revision": "b676f12ede6dbfe23bcf",
+    "url": "jevin925.github.io/static/css/main.ca9580d2.chunk.css"
   },
   {
     "revision": "76c32c743f29df5f8c9c",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "jevin925.github.io/static/js/4.dc6e5edc.chunk.js"
   },
   {
-    "revision": "2a46eee1f24c2e51fedd",
-    "url": "jevin925.github.io/static/js/main.d2e3ec76.chunk.js"
+    "revision": "b676f12ede6dbfe23bcf",
+    "url": "jevin925.github.io/static/js/main.14166142.chunk.js"
   },
   {
     "revision": "2d099cf3e1c0242a5000",
